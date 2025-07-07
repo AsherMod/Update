@@ -1,0 +1,20 @@
+
+  "version_code": 5000,
+  "title_update": "Update Available",
+  "title_made_by": "AsherMod 🥶",
+  "title_color": "#FF0000",
+  "description": [
+    "Improved performance and speed",
+    "Enhanced security features",
+    "New user interface design"
+  ],
+  "notes": [
+    "Latest performance improvements",
+    "Security enhancements overview",
+    "New UI design guide",
+    "Update FAQs and support"
+  ],
+  "donate_link": "https://sociabuzz.com/ashermod/tribe",
+  "update_link": "https://whatsapp.com/channel/0029Vb6UybQDeON3oY4bzW3U",
+  "dialog_exit_on_false": true
+}
