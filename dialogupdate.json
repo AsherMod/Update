@@ -1,7 +1,7 @@
-
+{
   "version_code": 5000,
   "title_update": "Update Available",
-  "title_made_by": "AsherMod 🥶",
+  "title_made_by": "AsherMod",
   "title_color": "#FF0000",
   "description": [
     "Improved performance and speed",
@@ -14,7 +14,7 @@
     "New UI design guide",
     "Update FAQs and support"
   ],
-  "donate_link": "https://sociabuzz.com/ashermod/tribe",
-  "update_link": "https://whatsapp.com/channel/0029Vb6UybQDeON3oY4bzW3U",
+  "channel_link": "https://whatsapp.com/channel/0029Vb6UybQDeON3oY4bzW3U",
+  "donate_link": "https://saweria.co/AsherMod",
   "dialog_exit_on_false": true
 }
